@@ -1,4 +1,5 @@
 # ES12F 本地化固件 —— 完整工程包
+<img width="800" height="800" alt="IMG_3097" src="https://github.com/user-attachments/assets/172d32b7-f13d-49ea-aa63-8a7120818d22" />
 
 > 把一台基于 **ESP8285N08** 的电脑远程开关机卡，从「连厂商云服务器」改造为
 > **纯本地局域网设备**：删掉远程固件更新与全部对外连接，只保留
